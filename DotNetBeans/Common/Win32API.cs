@@ -68,6 +68,9 @@ namespace KMisaki.OSSProject.DotNetBeans.Common
             SetForegroundWindow(hWnd);
         }
 
+        [DllImport("user32.dll")]
+        public static extern bool SetProcessDPIAware();
+
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
         private static extern bool SetWindowPos(IntPtr hWnd,
