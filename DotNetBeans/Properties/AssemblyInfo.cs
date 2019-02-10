@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("DotNetBeans")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription(".Net application's common library")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DotNetBeans")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019 K.Misaki")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
