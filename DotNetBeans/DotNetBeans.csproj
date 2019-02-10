@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KMisaki.OSSProject.DotNetBeans</RootNamespace>
-    <AssemblyName>DotNetBeans</AssemblyName>
+    <AssemblyName>KMisaki.OSSProject.DotNetBeans</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
